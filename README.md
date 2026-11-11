@@ -1,59 +1,95 @@
-# Muhammad Usman
+# Hi there, I'm Usman Asim 👋
 
-**Full Stack Engineer**  
-Building scalable, high-performance web applications and backend systems with end-to-end ownership and a strong focus on performance optimization.
+### Full Stack Engineer | AI & Automation Developer 🚀
 
----
+I am a Full Stack Engineer with **1.5+ years of professional experience** building and shipping scalable, production-ready web applications for international clients. I specialize in developing modern frontend experiences with React and Next.js, building robust backend systems with Node.js and Express, and designing efficient database architectures using PostgreSQL, MongoDB, and Prisma.
 
-## About Me
-
-I am a **Full Stack Developer** with over 1 plus year of experience in building scalable, high-performance web applications using the **MERN** stack. I specialize in designing and developing backend systems, crafting user-centric interfaces, and ensuring seamless integrations. With a strong understanding of system architecture, API design, database management, and cloud deployments, I’m committed to delivering reliable solutions aligned with business goals.
-
-I have hands-on experience in both **frontend** and **backend development**, and I’m capable of working independently or as part of cross-functional teams to take projects from concept to production.
+I also work with AI-powered applications, chatbots, voice agents, and workflow automation using n8n. My experience includes building multilingual marketplaces, prediction platforms, payment-integrated systems, real-time applications, and AI-driven solutions.
 
 ---
 
-## Core Skills
+### 🛠️ Technical Stack & Expertise
 
-**Frontend:**  React.js, Next.js, JavaScript, HTML5, Tailwind CSS, redux  
-**Backend:** Node.js, Express.js, Python, REST APIs,TypeORM, Prisma   
-**Databases:** MongoDB, MySQL, PostgreSQL, Query Optimization, Database Design,Neon DB   
-**Cloud & DevOps:**  Docker, CI/CD, AWS   
-**Tools & Practices:**   Git, GitHub, VS Code, Cursor, Claude, ChatGPT, Gen-AI, 
-
----
-
-## Selected Projects
-
-### **LLM Training (Turing)**  
-**Tech:** Prompt Engineering, Natural Language Models  
-Worked on training large language models (LLMs) to improve model accuracy and response relevance.
-
-### **Txt2Give.co**  
-**Tech:** React, Node.js, TypeScript, Redux Toolkit, Intercom Chatbot  
-Built a responsive UI and integrated SMS and real-time messaging APIs for an AI-enabled SMS platform.
-
-### **Falcon Tour Travel Platform**  
-**Tech:** Next.js, Express.js, PostgreSQL, Stripe, TypeORM  
-Developed a full-stack platform for managing event-based trips, including payment processing and media uploads.
-
-### **Itqan**  
-**Tech:** Next.js, Node.js, TypeScript, GitLab, AWS  
-Developed a platform for managing household services, integrating real-time communication and service management features.
+- **Languages:** JavaScript (ES6+), TypeScript, SQL
+- **Frontend:** React.js | Next.js | Redux | Redux Toolkit | Tailwind CSS | Bootstrap | Material UI | shadcn/ui | HTML5 | CSS3
+- **Backend & APIs:** Node.js | Express.js | RESTful APIs | GraphQL | WebSockets | Socket.IO
+- **Databases & ORM:** PostgreSQL | MySQL | MongoDB | NeonDB | Prisma | SQL | NoSQL
+- **AI & Automation:** AI Chatbots | Voice Agents | n8n Workflow Automation | Prompt Engineering | AI API Integration
+- **DevOps & Cloud:** Docker | AWS | Git | GitHub | GitLab | Heroku | Cloudinary
+- **Authentication & Integrations:** JWT | Role-Based Access Control (RBAC) | KYC Verification | SOAP APIs | Payment Gateways | i18n
 
 ---
 
-## Education
+### 💼 Professional Experience
 
-**Bachelor of Science in Computer Science**  
-**Ripha International University** | 2025  
-Lahore, Pakistan
+**Full Stack Developer — DevClan**  
+*April 2025 – Present | Lahore, Pakistan*
+
+- Building scalable full-stack web applications and AI-driven platforms using Next.js, React, TypeScript, Node.js, and Express.
+- Designing RESTful APIs and PostgreSQL/Prisma database architectures for production applications.
+- Implementing real-time communication and live updates using WebSockets and Socket.IO.
+- Integrating AI chatbots, voice agents, and n8n workflow automation into web applications.
+- Developing secure authentication, authorization, and role-based access control systems.
+- Containerizing applications with Docker and deploying services to cloud environments.
+
+**Associate Software Engineer — Technier**  
+*June 2024 – May 2025 | Lahore, Pakistan*
+
+- Developed and maintained responsive web applications using React.js and Next.js.
+- Built and integrated RESTful APIs using Node.js and Express.js.
+- Worked with MySQL, PostgreSQL, and MongoDB for database management.
+- Used Docker for containerized development and Git/GitHub for collaborative development.
+- Improved application performance, responsiveness, and user experience.
+
+**MERN / PERN Stack Intern — Technier**  
+*February 2024 – May 2024 | Lahore, Pakistan*
+
+- Developed responsive frontend interfaces using React.js, HTML5, CSS3, and Tailwind CSS.
+- Integrated REST APIs into existing web applications.
+- Fixed cross-browser compatibility issues and improved frontend performance.
+- Collaborated with developers using Git and GitHub.
 
 ---
 
-## Contact & Links
+### 🚀 Highlighted Commercial Projects
 
-- **Email:** [usmanasim295@gmail.com](mailto:usmanasim295@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/muhammad-usman](https://www.linkedin.com/in/osman-asim-949264300/)  
-- **GitHub:** [github.com/Usman2124](https://github.com/Usman2124)  
-- **Portfolio:** [https://usman-asim.netlify.app/]
+- **🏠 JAAR Platform (Multilingual Home Services Marketplace):** Developed a multilingual English/Arabic RFQ marketplace for the Saudi Arabian market, connecting homeowners with service providers through a live bidding system. Implemented real-time chat supporting text, images, videos, and voice notes using Socket.IO.
+
+- **🎯 PlotPicks (Prediction & Rewards Platform):** Built a TV-show-based prediction platform where administrators create prediction-based Plots with automated points and cash reward distribution. Developed an influencer portal with referral tracking and commission payouts, integrating SOAP payment APIs and KYC identity verification.
+
+- **🤖 Txt2Solutions.ai (AI-Powered SMS Platform):** Developed frontend features for an AI-enabled SMS platform using React.js, TypeScript, and Redux, supporting message delivery tracking, real-time messaging, and automated scheduling through Ruby on Rails APIs.
+
+- **✈️ Falcon Tour (Travel Management Platform):** Developed an event-based travel management platform using Next.js, Express.js, and PostgreSQL, integrating Stripe payments, Cloudinary media management, and JWT authentication.
+
+- **🏡 Itqan (Household Services Platform):** Developed household-service web components using React.js, Redux Toolkit, and Node.js, including admin monitoring and customer-provider workflow panels, with AWS deployment.
+
+---
+
+### 🎓 Education
+
+**Associate Degree in Computer Science**  
+Riphah International University, Lahore, Pakistan  
+*September 2023 – August 2025*
+
+**GPA:** 3.6
+
+---
+
+### 🤖 Currently Exploring
+
+- AI Agents and Agentic AI Systems
+- Retrieval-Augmented Generation (RAG)
+- Large Language Model (LLM) Integrations
+- Advanced n8n Workflow Automation
+- Scalable Backend Architecture
+- AI-Powered SaaS Applications
+
+---
+
+### 📫 Let's Connect
+
+- **Email:** usmanasim295@gmail.com
+- **LinkedIn:** [linkedin.com/in/usman-asim](https://linkedin.com/in/usman-asim)
+- **Location:** Lahore, Pakistan
+
+💡 *Passionate about building scalable software, solving real-world problems, and integrating intelligent AI-powered solutions into modern applications.*
