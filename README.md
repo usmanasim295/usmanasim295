@@ -89,7 +89,7 @@ Riphah International University, Lahore, Pakistan
 ### 📫 Let's Connect
 
 - **Email:** usmanasim295@gmail.com
-- **LinkedIn:** [linkedin.com/in/usman-asim](https://linkedin.com/in/usman-asim)
+- **LinkedIn:** [linkedin.com/in/usman-asim](https://linkedin.com/in/usman-asim](https://www.linkedin.com/in/usman-asim-949264300/))
 - **Location:** Lahore, Pakistan
 
 💡 *Passionate about building scalable software, solving real-world problems, and integrating intelligent AI-powered solutions into modern applications.*
